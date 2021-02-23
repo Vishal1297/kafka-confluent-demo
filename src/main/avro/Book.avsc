@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "namespace": "org.demo.model",
+  "name": "Book",
+  "fields": [
+    {
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "name": "totalPages",
+      "type": "string"
+    },
+    {
+      "name": "author",
+      "type": "string"
+    },
+    {
+      "name": "category",
+      "type": "string"
+    }
+  ]
+} 
